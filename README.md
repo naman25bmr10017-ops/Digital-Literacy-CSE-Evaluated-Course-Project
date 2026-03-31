@@ -11,5 +11,4 @@ Includes infographic, portfolio, platforms, email etiquette, and cybercrime awar
 ## Task 1 – Digital Literacy Infographic
 
 I created an infographic explaining digital literacy, useful tools, and safe internet practices.
-
-[View Infographic](./task-1-presentation/Infographic - Digital Literacy.png)
+[View Infographic](./task-1-presentation/Infographic.png)
