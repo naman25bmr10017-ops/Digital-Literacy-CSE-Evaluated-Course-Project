@@ -42,3 +42,12 @@ In this task, I created two professional emails and a social media etiquette che
 
 (See files in task-4-email-etiquette folder)
 
+## Task 5 – Cybercrime Awareness
+
+In this task, I created a case study on UPI fraud and a prevention checklist.
+
+- Case study explaining how UPI fraud happens
+- Checklist with safety tips and reporting options
+
+(See files in task-5-cybercrime folder)
+
