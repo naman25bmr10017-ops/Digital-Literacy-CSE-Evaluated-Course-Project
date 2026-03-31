@@ -18,9 +18,9 @@ I created an infographic explaining digital literacy, useful tools, and safe int
 I created my profiles on GitHub, LinkedIn, and HackerRank to build my digital presence.
 
 ### Screenshots:
-- GitHub Profile  
-- LinkedIn Profile  
-- HackerRank Profile  
+- [GitHub Profile](https://github.com/naman25bmr10017-ops)  
+- [LinkedIn Profile](https://www.linkedin.com/in/naman-sahu-382060383/)
+- [HackerRank Profile](https://www.hackerrank.com/profile/namansahu206)  
 
 ![GitHub Profile](./task-2-portfolio/github.com.png)
 ![LinkedIn Profile](./task-2-portfolio/linkedin.com.png)
