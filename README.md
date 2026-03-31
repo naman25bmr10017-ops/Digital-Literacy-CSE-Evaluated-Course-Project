@@ -31,3 +31,14 @@ I created my profiles on GitHub, LinkedIn, and HackerRank to build my digital pr
 I explored coding and collaboration platforms by solving a problem on HackerRank and creating a Google Form.
 
 [View Google Form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSe4stvz3QtbwFDH6-yQ3XnExeNNjEJZL05bpV0xfdt5Sz80dg/formResponse)
+
+## Task 4 – Email Etiquette
+
+In this task, I created two professional emails and a social media etiquette checklist.
+
+- Email 1: Request for assignment deadline extension  
+- Email 2: Internship application email  
+- Social Media Do’s and Don’ts checklist  
+
+(See files in task-4-email-etiquette folder)
+
