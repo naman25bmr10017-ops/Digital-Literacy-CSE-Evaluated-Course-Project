@@ -25,3 +25,9 @@ I created my profiles on GitHub, LinkedIn, and HackerRank to build my digital pr
 ![GitHub Profile](./task-2-portfolio/github.com.png)
 ![LinkedIn Profile](./task-2-portfolio/linkedin.com.png)
 ![HackerRank Profile](./task-2-portfolio/hackerrank.com.png)
+
+## Task 3 – Platforms
+
+I explored coding and collaboration platforms by solving a problem on HackerRank and creating a Google Form.
+
+[View Google Form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSe4stvz3QtbwFDH6-yQ3XnExeNNjEJZL05bpV0xfdt5Sz80dg/formResponse)
