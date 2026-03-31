@@ -22,6 +22,6 @@ I created my profiles on GitHub, LinkedIn, and HackerRank to build my digital pr
 - LinkedIn Profile  
 - HackerRank Profile  
 
-![GitHub Profile](./task-2-portfolio/github.png)
-![LinkedIn Profile](./task-2-portfolio/linkedin.png)
-![HackerRank Profile](./task-2-portfolio/hackerrank.png)
+![GitHub Profile](./task-2-portfolio/github.com.png)
+![LinkedIn Profile](./task-2-portfolio/linkedin.com.png)
+![HackerRank Profile](./task-2-portfolio/hackerrank.com.png)
